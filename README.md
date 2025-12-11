@@ -82,7 +82,7 @@ KEYS_FILE=keys.txt
 | `JIRA_BASE_URL` | Your Jira Cloud instance URL (no trailing slash) | ✅ |
 | `JIRA_USERNAME` | Your Atlassian account email | ✅ |
 | `JIRA_PASSWORD` | Your password or API token | ✅ |
-| `KEYS_FILE` | Path to file with issue keys (default: `keys.txt`) | ❌ |
+| `KEYS_FILE` | Path to file with issue keys (default: `keys.txt`) | ✅ |
 
 ## 📝 Usage
 
