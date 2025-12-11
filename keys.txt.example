@@ -1,0 +1,11 @@
+# Jira Issue Keys
+# List your Jira issue keys here, one per line
+# Lines starting with # are comments and will be ignored
+# Empty lines are also ignored
+
+# Example entries (remove these and add your own):
+PROJECT-123
+PROJECT-456
+PROJECT-789
+SUPPORT-1001
+SUPPORT-1002
